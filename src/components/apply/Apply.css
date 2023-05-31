@@ -1,0 +1,53 @@
+.wb-applyTitle{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    margin-bottom: 100px;
+}
+.wb-applyBlock{
+    display: flex;
+    flex-direction: column;
+    padding: 63px 119px;
+}
+.wb-applyItemsBlock{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.wb-itemWithArrowBlock{
+    flex-basis: 17.9vw;
+    max-width: 397px;
+    text-align: center;
+    display: flex;
+}
+.wb-imageBlock{
+    margin: 0 auto;
+}
+.wb-imageBlock{
+    width: 100%;
+    height: 100%;
+    max-width: 192px;
+    max-height: 197px;
+}
+.wb-titleBlock{
+    margin-top: 50px;
+}
+.wb-arrowBlock{
+    margin-top: 75px;
+}
+.wb-titleBlock h3{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #878787;
+}
+.wb-description p{
+    line-height: 24px;
+}
